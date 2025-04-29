@@ -5,7 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 export default function HomeScreen() {
   return (
     <SafeAreaView>
-      <Text>dumbaass</Text>
+      <Text>HomeScreen</Text>
     </SafeAreaView>
   );
 }
